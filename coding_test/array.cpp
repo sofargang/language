@@ -7,7 +7,6 @@ using namespace std;
  *  - 임의 위치에 원소 추가/제거 : O(N)
  *  - 메모리 상의 배치 : 연속
  *  - 추가적으로 필요한 공간 : X
- *
  */
 
 int main(void) {
